@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<releve>
+    <ops dateDebut="3918-12-10T00:00:00+01:00" dateFin="2022-12-29T23:18:49.706+01:00">
+        <operation>
+            <type>CREDIT</type>
+            <date>3919-11-11T00:00:00+01:00</date>
+            <montant>4500.0</montant>
+            <description>some money!</description>
+        </operation>
+        <operation>
+            <type>DEBIT</type>
+            <date>3920-03-10T00:00:00+01:00</date>
+            <montant>7500.0</montant>
+            <description>some money!</description>
+        </operation>
+        <operation>
+            <type>CREDIT</type>
+            <date>3921-06-03T00:00:00+01:00</date>
+            <montant>8600.0</montant>
+            <description>some money!</description>
+        </operation>
+    </ops>
+    <dateReleve>2022-12-29T23:18:49.694+01:00</dateReleve>
+    <rib>1376666</rib>
+    <solde>5600.0</solde>
+</releve>
